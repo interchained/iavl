@@ -1,4 +1,4 @@
-module github.com/cosmos/iavl
+module github.com/interchained/iavl
 
 go 1.13
 
@@ -11,8 +11,8 @@ require (
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/pkg/errors v0.9.1
 	github.com/stretchr/testify v1.7.0
-	github.com/tendermint/tendermint v0.34.12
-	github.com/tendermint/tm-db v0.6.4
+	github.com/interchained/tendermint v0.34.12
+	github.com/interchained/gm-db v0.6.4
 	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
 	google.golang.org/genproto v0.0.0-20201119123407-9b1e624d6bc4
 	google.golang.org/grpc v1.40.0
